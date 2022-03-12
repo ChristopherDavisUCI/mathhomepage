@@ -1,4 +1,4 @@
-baseURL: christopherdavisuci.github.io/quickstart
+baseURL: https://christopherdavisuci.github.io/quickstart/
 languageCode: en-us
-title: My New Hugo Site theme
+title: My second Hugo Site theme
 theme: "PaperMod"
