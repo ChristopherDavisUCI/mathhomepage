@@ -1,17 +1,43 @@
 baseURL: https://christopherdavisuci.github.io/quickstart/
 languageCode: en-us
-title: My second Hugo Site theme
+title: Christopher Davis
 theme: "PaperMod"
+
+menu:
+  main:
+    - identifier: teach
+      name: Teaching
+      url: /teach/
+      weight: 10
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 20
+    - identifier: updates
+      name: Updates
+      url: /updates/
+      weight: 30
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
 
 params:
     profileMode:
         enabled: true
         title: "Christopher Davis" # optional default will be site title
-        subtitle: "This is subtitle"
-        imageUrl: "/img/dv.png" # optional
+        subtitle: "Associate Professor of Teaching, Mathematics Department, UC Irvine"
+        imageUrl: "./img/dv.png" # optional
         imageTitle: "Me near Death Valley" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
-        buttons:
-            - name: Github
-              url: "https://github.com/ChristopherDavisUCI"
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
+
+    socialIcons: # optional
+        - name: "youtube"
+          url: "https://www.youtube.com/channel/UCwm9SiqPX4wvbiVXCC0XLJg"
+        - name: "github"
+          url: "https://github.com/ChristopherDavisUCI"
+        # - name: "linkedin"
+        #   url: "https://www.linkedin.com/in/christopher-davis-10ba28194/"
+        - name: "email"
+          url: "mailto:daviscj@uci.edu"
