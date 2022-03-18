@@ -11,7 +11,7 @@ Here is a link to my papers on [arXiv](http://arxiv.org/a/davis_c_2.html).
 
 ## Publications
 
-[On the de Rham-Witt complex over perfectoid rings](../papers/dRW-Perfectoid.pdf), with Irakli Patchkoria.  To appear in International Mathematics Research Notices.
+[On the de Rham-Witt complex over perfectoid rings](../papers/dRW-Perfectoid.pdf), with Irakli Patchkoria.  To appear in International Mathematics Research Notices.  Version of March 21, 2021.
 
 [ On the p-typical de Rham-Witt complex over W(k)](../papers/separatedDRW.pdf).  Alg. Number Th. 13 (2019) 1597-1631.  Version of April 21, 2019.
 
