@@ -12,9 +12,9 @@ TocOpen: true
 
 ## Courses Taught at UC Irvine
 
-* Spring 2022: Math 10: Introduction to Programming for Data Science
-* Spring 2022: Math 140A: Elementary Analysis
-* Spring 2022: Math 199C: Machine Learning
+* Spring 2022: [Math 10: Introduction to Programming for Data Science](https://canvas.eee.uci.edu/courses/45019)
+* Spring 2022: [Math 140A: Elementary Analysis](https://canvas.eee.uci.edu/courses/45093)
+* Spring 2022: [Math 199C: Machine Learning](https://canvas.eee.uci.edu/courses/45020)
 * Winter 2022: [Math 10: Introduction to Programming for Data Science](https://canvas.eee.uci.edu//courses/42645)
 * Winter 2022: [Math 232B: Algebraic Number Theory](https://canvas.eee.uci.edu//courses/42646)
 * Fall 2021: Math 10: Introduction to Programming for Data Science
