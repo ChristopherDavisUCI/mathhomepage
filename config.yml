@@ -27,7 +27,7 @@ params:
     profileMode:
         enabled: true
         title: "Christopher Davis" # optional default will be site title
-        subtitle: "Associate Professor of Teaching, Mathematics Department, UC Irvine"
+        subtitle: "Professor of Teaching, Mathematics Department, UC Irvine"
         imageUrl: "./img/dv.png" # optional
         imageTitle: "Me near Death Valley" # optional
         imageWidth: 240 # custom size

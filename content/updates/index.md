@@ -1,8 +1,7 @@
 ---
 title: "Updates"
-date: 2022-03-13
-draft: true
+# date: 2022-03-13
+draft: false
 ---
-## Heading
 
-Last updated 3/29 at 11:30am
+* 9/11/22- I just posted some introductory [Python notes and videos](https://christopherdavisuci.github.io/UCI-Math-9-F22/intro.html).  Please email me with any comments!

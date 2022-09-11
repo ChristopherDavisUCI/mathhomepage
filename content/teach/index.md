@@ -8,10 +8,11 @@ TocOpen: true
 
 ## Course Materials
 
-* Coming soon
+* [Math 9 Python notes and videos](https://christopherdavisuci.github.io/UCI-Math-9-F22/intro.html)
 
 ## Courses Taught at UC Irvine
 
+* Fall 2022: [Math 10: Introduction to Programming for Data Science](https://canvas.eee.uci.edu/courses/49027)
 * Spring 2022: [Math 10: Introduction to Programming for Data Science](https://canvas.eee.uci.edu/courses/45019)
 * Spring 2022: [Math 140A: Elementary Analysis](https://canvas.eee.uci.edu/courses/45093)
 * Spring 2022: [Math 199C: Machine Learning](https://canvas.eee.uci.edu/courses/45020)
