@@ -12,6 +12,7 @@ TocOpen: true
 
 ## Courses Taught at UC Irvine
 
+* Summer 2023: [Math 173A: Introduction to Cryptology](https://canvas.eee.uci.edu/courses/55830)
 * Spring 2023: [Math 10: Introduction to Programming for Data Science](https://canvas.eee.uci.edu/courses/53164)
 * Spring 2023: Math 199C: Machine Learning
 * Spring 2023: [Math 230C: Algebra](https://canvas.eee.uci.edu/courses/53166)
@@ -25,6 +26,7 @@ TocOpen: true
 * Fall 2021: [Math 232A: Algebraic Number Theory](https://canvas.eee.uci.edu/courses/39212)
 * Fall 2020: Math 9: Introduction to Programming for Numerical Analysis
 * Fall 2020: Math 199A: Election 2020
+* Summer 2020:  Math 9: Introduction to Programming for Numerical Analysis
 * Spring 2020:  Math 2A: Differential Calculus
 * Spring 2020:  Math H120C and 206C: Introduction to Graduate Algebra
 * Winter 2020:  [Math H2D: Honors Multivariable Calculus](https://canvas.eee.uci.edu/courses/22715)
