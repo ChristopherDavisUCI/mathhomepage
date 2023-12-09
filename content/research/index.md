@@ -1,17 +1,17 @@
 ---
 title: "Research"
-date: 2022-03-12
+date: 2023-12-09
 draft: false
 
 ---
-
-Most of the papers below have some connection to Witt vectors, but as of March 2022, I am making a concerted effort to branch out!
 
 Here is a link to my papers on [arXiv](http://arxiv.org/a/davis_c_2.html).
 
 ## Publications
 
-[On the de Rham-Witt complex over perfectoid rings](../papers/dRW-Perfectoid.pdf), with Irakli Patchkoria.  To appear in International Mathematics Research Notices.  Version of March 21, 2021.
+[On the cyclic homology of certain universal differential graded algebras](../papers/CyclicHom.pdf), with Julius Frank and Irakli Patchkoria.  Submitted.  Version of December 9, 2023.
+
+[On the de Rham-Witt complex over perfectoid rings](../papers/dRW-Perfectoid.pdf), with Irakli Patchkoria.  Int. Math. Res. Not. 2022, no. 18, 13897-13983.  Version of March 21, 2021.
 
 [ On the p-typical de Rham-Witt complex over W(k)](../papers/separatedDRW.pdf).  Alg. Number Th. 13 (2019) 1597-1631.  Version of April 21, 2019.
 
@@ -41,6 +41,7 @@ Thomas Zink.  J. Reine Angew. Math. 668 (2012), 1-34.<br> <br>
 [ Overconvergent de Rham-Witt cohomology](../papers/OdRW.pdf), with Andreas
 Langer and Thomas Zink.
 Ann. Scient. &Eacute;c. Norm. Sup. (4) 44 (2011), no. 2, 197-262.<br> <br>
+
 <i> The overconvergent de Rham-Witt complex</i>, Ph.D. Thesis, MIT.  Advised by Kiran Kedlaya.  2009.  You can see it [here](http://dspace.mit.edu/handle/1721.1/50593) by clicking on the "Preview, non-printable" link.  However, note that the results of the first four sections are improved and expanded in my joint papers with Andreas Langer and Thomas Zink, and the results of the last two sections are improved and expanded in my joint papers with Kiran Kedlaya. <br> <br>
 
 [Totally geodesic Seifert surfaces in hyperbolic knot and link

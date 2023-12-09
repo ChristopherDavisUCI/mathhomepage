@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2022-03-09
+date: 2023-12-09
 draft: false
 ShowToc: true
 TocOpen: true
@@ -9,9 +9,13 @@ TocOpen: true
 ## Course Materials
 
 * [Math 9 Python notes and videos](https://christopherdavisuci.github.io/UCI-Math-9-F22/intro.html)
+* [Math 10 Course notes](https://christopherdavisuci.github.io/UCI-Math-10-S23/intro.html)
+* [Math 173A Python notebooks and screenshare notes](https://christopherdavisuci.github.io/Math173A-Notebooks/) from Summer Session 2023
 
 ## Courses Taught at UC Irvine
 
+* Fall 2023: [Math 99: New Math Majors Seminar](https://canvas.eee.uci.edu/courses/58055)
+* Fall 2023: [Math 230A: Algebra](https://canvas.eee.uci.edu/courses/58053)
 * Summer 2023: [Math 173A: Introduction to Cryptology](https://canvas.eee.uci.edu/courses/55830)
 * Spring 2023: [Math 10: Introduction to Programming for Data Science](https://canvas.eee.uci.edu/courses/53164)
 * Spring 2023: Math 199C: Machine Learning
