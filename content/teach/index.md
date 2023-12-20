@@ -38,6 +38,12 @@ TocOpen: true
 * Winter 2020:  [Math 199B: Introduction to Manifolds](https://canvas.eee.uci.edu/courses/22716)
 * Fall 2019:  [Math 9: Introduction to Programming for Numerical Analysis](https://canvas.eee.uci.edu/courses/19518)
 * Fall 2019:  [Math H120A and 206A: Introduction to Graduate Algebra](https://canvas.eee.uci.edu/courses/19517)
+* Spring 2019: [Math 120C: Introduction to Galois Theory](https://canvas.eee.uci.edu/courses/16456)
+* Spring 2019: [Math 140C: Analysis in Several Variables](https://canvas.eee.uci.edu/courses/16457)
+* Spring 2019: [Math 199C: Introduction to Proofs](https://canvas.eee.uci.edu/courses/16455)
+* Winter 2019: [Math 13: Introduction to Abstract Mathematics](https://canvas.eee.uci.edu/courses/14523)
+* Winter 2019: [Math 180A: Number Theory I](https://canvas.eee.uci.edu/courses/14525)
+* Winter 2019: [Math 199B: Introduction to Statistical Learning](https://canvas.eee.uci.edu/courses/14524)
 * Fall 2018:  Math 9: Introduction to Programming for Numerical Analysis
 * Fall 2018:  Math 199A: Topology and Data
 * Spring 2018:  [Math H2E: Honors Multivariable Calculus](https://canvas.eee.uci.edu/courses/9414)
