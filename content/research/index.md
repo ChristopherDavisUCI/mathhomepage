@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2023-12-09
+date: 2023-12-27
 draft: false
 
 ---
@@ -8,8 +8,6 @@ draft: false
 Here is a link to my papers on [arXiv](http://arxiv.org/a/davis_c_2.html).
 
 ## Publications
-
-[On the cyclic homology of certain universal differential graded algebras](../papers/CyclicHom.pdf), with Julius Frank and Irakli Patchkoria.  Submitted.  Version of December 9, 2023.
 
 [On the de Rham-Witt complex over perfectoid rings](../papers/dRW-Perfectoid.pdf), with Irakli Patchkoria.  Int. Math. Res. Not. 2022, no. 18, 13897-13983.  Version of March 21, 2021.
 
@@ -50,5 +48,9 @@ Jennings, Jennifer Novak, Nicholas Perry, and Eric Schoenfeld.
 J. Differ. Geom. 79 (2008), no. 1, 1-23.
 
 ## Preprints
+
+[Emphasizing Sociomathematical Norms in Introductory Proof-Writing Courses](https://arxiv.org/abs/2312.14332), with Jennifer Pi, Yasmeen Baki, and Alessandra Pantano.  Version of December 21, 2023.
+
+[On the cyclic homology of certain universal differential graded algebras](../papers/CyclicHom.pdf), with Julius Frank and Irakli Patchkoria.  Submitted.  Version of December 9, 2023.
 
 [Witt vectors with p-adic coefficients and Fontaine's rings](../papers/padic.pdf), with Kiran Kedlaya. Version of 2/21/11. Much of this material has been moved into our papers *On the Witt vector Frobenius* and *Almost purity for overconvergent Witt vectors*.</span></p>
