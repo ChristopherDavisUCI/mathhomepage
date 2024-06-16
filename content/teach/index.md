@@ -14,6 +14,9 @@ TocOpen: true
 
 ## Courses Taught at UC Irvine
 
+* Spring 2024: [Math 178: Mathematical Machine Learning](https://canvas.eee.uci.edu/courses/62533)
+* Spring 2024: [Math 230C: Algebra](https://canvas.eee.uci.edu/courses/62534)
+* Winter 2024: [Math 230B: Algebra](https://canvas.eee.uci.edu/courses/60791)
 * Fall 2023: [Math 99: New Math Majors Seminar](https://canvas.eee.uci.edu/courses/58055)
 * Fall 2023: [Math 230A: Algebra](https://canvas.eee.uci.edu/courses/58053)
 * Summer 2023: [Math 173A: Introduction to Cryptology](https://canvas.eee.uci.edu/courses/55830)
