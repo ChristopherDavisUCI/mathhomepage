@@ -8,9 +8,6 @@
     <loc>https://www.math.uci.edu/~davis/teach/</loc>
     <lastmod>2023-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.math.uci.edu/~davis/updates/</loc>
-    <lastmod>2023-12-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.math.uci.edu/~davis/categories/</loc>
   </url><url>
     <loc>https://www.math.uci.edu/~davis/</loc>
@@ -18,5 +15,7 @@
     <loc>https://www.math.uci.edu/~davis/contact/</loc>
   </url><url>
     <loc>https://www.math.uci.edu/~davis/tags/</loc>
+  </url><url>
+    <loc>https://www.math.uci.edu/~davis/updates/</loc>
   </url>
 </urlset>
