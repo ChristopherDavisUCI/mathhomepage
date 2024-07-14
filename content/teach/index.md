@@ -11,6 +11,7 @@ TocOpen: true
 * [Math 9 Python notes and videos](https://christopherdavisuci.github.io/UCI-Math-9-F22/intro.html)
 * [Math 10 Course notes](https://christopherdavisuci.github.io/UCI-Math-10-S23/intro.html)
 * [Math 173A Python notebooks and screenshare notes](https://christopherdavisuci.github.io/Math173A-Notebooks/) from Summer Session 2023
+* [Math 178 Python labs](https://christopherdavisuci.github.io/UCI-Math-178-S24/intro.html) from Spring 2024
 
 ## Courses Taught at UC Irvine
 
