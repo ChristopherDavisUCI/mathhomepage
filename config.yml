@@ -2,7 +2,7 @@ baseURL: https://www.math.uci.edu/~davis/
 # baseURL: https://christopherdavisuci.github.io/quickstart/
 languageCode: en-us
 title: Christopher Davis
-theme: "PaperMod"
+theme: "hugo-PaperMod"
 
 menu:
   main:
