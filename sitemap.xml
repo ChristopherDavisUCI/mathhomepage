@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.math.uci.edu/~davis/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.uci.edu/~davis/teach/math13x/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.math.uci.edu/~davis/updates/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.math.uci.edu/~davis/research/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,12 +19,8 @@
   </url><url>
     <loc>https://www.math.uci.edu/~davis/categories/</loc>
   </url><url>
-    <loc>https://www.math.uci.edu/~davis/</loc>
-  </url><url>
     <loc>https://www.math.uci.edu/~davis/contact/</loc>
   </url><url>
     <loc>https://www.math.uci.edu/~davis/tags/</loc>
-  </url><url>
-    <loc>https://www.math.uci.edu/~davis/updates/</loc>
   </url>
 </urlset>

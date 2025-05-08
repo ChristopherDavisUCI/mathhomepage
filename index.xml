@@ -4,49 +4,50 @@
     <title>Christopher Davis</title>
     <link>https://www.math.uci.edu/~davis/</link>
     <description>Recent content on Christopher Davis</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.math.uci.edu/~davis/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.math.uci.edu/~davis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math 13X</title>
+      <link>https://www.math.uci.edu/~davis/teach/math13x/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.math.uci.edu/~davis/teach/math13x/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../misc/SampleSyllabus-Math13X.pdf&#34;&gt;Math 13X Sample Syllabus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Math 13X, &lt;em&gt;Skills for Success in Abstract Math&lt;/em&gt;, is a new course that is planned to be taught in Fall 2025 for the first time.  All Math 13X students are required to be simultaneously enrolled in Math 13 (but not vice versa).  This course was developed in collaboration with Alessandra Pantano and Marissa Corr, through the Math Department&amp;rsquo;s &lt;em&gt;Inclusive Excellence&lt;/em&gt; committee.  If the course is successful, we hope to teach it regularly during the following academic year (Fall 2026 and beyond).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Updates</title>
+      <link>https://www.math.uci.edu/~davis/updates/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.math.uci.edu/~davis/updates/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;5/8/25 - A new Math 13 companion course, Math 13X, is being offered for the first time in Fall 2025.   Please see &lt;a href=&#34;../teach/math13x&#34;&gt;here&lt;/a&gt; for more information.&lt;/li&gt;
+&lt;li&gt;6/16/24 - I just finished Math 178: Mathematical Machine Learning.  Here are the &lt;a href=&#34;https://christopherdavisuci.github.io/UCI-Math-178-S24/intro.html&#34;&gt;Python labs&lt;/a&gt; from the course.&lt;/li&gt;
+&lt;li&gt;8/9/23- I just finished teaching Math 173A: Introduction to Cryptology.  Check out the &lt;a href=&#34;https://christopherdavisuci.github.io/Math173A-Notebooks/&#34;&gt;Python notebooks and screenshare notes&lt;/a&gt; from the course.&lt;/li&gt;
+&lt;li&gt;9/11/22- I just posted some introductory &lt;a href=&#34;https://christopherdavisuci.github.io/UCI-Math-9-F22/intro.html&#34;&gt;Python notes and videos&lt;/a&gt;.  Please email me with any comments!&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Research</title>
       <link>https://www.math.uci.edu/~davis/research/</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.math.uci.edu/~davis/research/</guid>
-      <description>Here is a link to my papers on arXiv.
-Publications On the de Rham-Witt complex over perfectoid rings, with Irakli Patchkoria. Int. Math. Res. Not. 2022, no. 18, 13897-13983. Version of March 21, 2021.
-On the p-typical de Rham-Witt complex over W(k). Alg. Number Th. 13 (2019) 1597-1631. Version of April 21, 2019.
-Explicit points on y^2 + xy + (t^d)y = x^3 and related character sums, with Tommy Occhipinti. J.</description>
+      <description>&lt;p&gt;Here is a link to my papers on &lt;a href=&#34;http://arxiv.org/a/davis_c_2.html&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;../papers/dRW-Perfectoid.pdf&#34;&gt;On the de Rham-Witt complex over perfectoid rings&lt;/a&gt;, with Irakli Patchkoria.  Int. Math. Res. Not. 2022, no. 18, 13897-13983.  Version of March 21, 2021.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../papers/separatedDRW.pdf&#34;&gt; On the p-typical de Rham-Witt complex over W(k)&lt;/a&gt;.  Alg. Number Th. 13 (2019) 1597-1631.  Version of April 21, 2019.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;../papers/RationalGeneration.pdf&#34;&gt;Explicit points on y^2 + xy + (t^d)y = x^3 and related character sums&lt;/a&gt;, with Tommy Occhipinti.  J. Number Theory. 168 (2016), 13-38.  Version of 9/26/2014.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://www.math.uci.edu/~davis/teach/</link>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.math.uci.edu/~davis/teach/</guid>
-      <description>Course Materials  Math 9 Python notes and videos Math 10 Course notes Math 173A Python notebooks and screenshare notes from Summer Session 2023 Math 178 Python labs from Spring 2024  Courses Taught at UC Irvine  Spring 2024: Math 178: Mathematical Machine Learning Spring 2024: Math 230C: Algebra Winter 2024: Math 230B: Algebra Fall 2023: Math 99: New Math Majors Seminar Fall 2023: Math 230A: Algebra Summer 2023: Math 173A: Introduction to Cryptology Spring 2023: Math 10: Introduction to Programming for Data Science Spring 2023: Math 199C: Machine Learning Spring 2023: Math 230C: Algebra Fall 2022: Math 10: Introduction to Programming for Data Science Spring 2022: Math 10: Introduction to Programming for Data Science Spring 2022: Math 140A: Elementary Analysis Spring 2022: Math 199C: Machine Learning Winter 2022: Math 10: Introduction to Programming for Data Science Winter 2022: Math 232B: Algebraic Number Theory Fall 2021: Math 10: Introduction to Programming for Data Science Fall 2021: Math 232A: Algebraic Number Theory Fall 2020: Math 9: Introduction to Programming for Numerical Analysis Fall 2020: Math 199A: Election 2020 Summer 2020: Math 9: Introduction to Programming for Numerical Analysis Spring 2020: Math 2A: Differential Calculus Spring 2020: Math H120C and 206C: Introduction to Graduate Algebra Winter 2020: Math H2D: Honors Multivariable Calculus Winter 2020: Math H120B and 206B: Introduction to Graduate Algebra Winter 2020: Math 199B: Introduction to Manifolds Fall 2019: Math 9: Introduction to Programming for Numerical Analysis Fall 2019: Math H120A and 206A: Introduction to Graduate Algebra Spring 2019: Math 120C: Introduction to Galois Theory Spring 2019: Math 140C: Analysis in Several Variables Spring 2019: Math 199C: Introduction to Proofs Winter 2019: Math 13: Introduction to Abstract Mathematics Winter 2019: Math 180A: Number Theory I Winter 2019: Math 199B: Introduction to Statistical Learning Fall 2018: Math 9: Introduction to Programming for Numerical Analysis Fall 2018: Math 199A: Topology and Data Spring 2018: Math H2E: Honors Multivariable Calculus Spring 2018: Math 9: Introduction to Programming for Numerical Analysis Spring 2018: Math 199: Introduction to Algorithms Winter 2018: Academy Awards 2018: Big data, small data Winter 2018: Math H2D: Honors Multivariable Calculus Winter 2018: Math 173B: Introduction to Cryptology Fall 2017: Math 9: Introduction to Programming for Numerical Analysis Fall 2017: Math 173A: Introduction to Cryptology Spring 2017: Math 9: Introduction to Programming for Numerical Analysis Spring 2017: Math 120B: Introduction to Abstract Algebra: Rings and Fields Spring 2017: Math 140B: Elementary Analysis Winter 2017: Math 120B: Introduction to Abstract Algebra: Rings and Fields Winter 2017: Math 121A: Linear Algebra Fall 2016: Math 2D: Multivariable Calculus Fall 2016: Math 120A: Introduction to Abstract Algebra: Group theory Spring 2016: Math 2B: Integral Calculus Spring 2016: Math 9: Introduction to Programming for Numerical Analysis Winter 2016: Math 2A: Differential Calculus Winter 2016: Math 9: Introduction to Programming for Numerical Analysis Fall 2015: Math 9: Introduction to Programming for Numerical Analysis Fall 2015: Math 13: Introduction to Abstract Mathematics Spring 2013: Math 180B: Number Theory Winter 2013: Math 173B: Introduction to Cryptology Winter 2013: Math 180A: Number Theory Fall 2012: Math 121A: Linear Algebra Fall 2012: Math 173A: Introduction to Cryptology Summer 2012: Math 1A: Pre-calculus Summer 2012: Math 1B: Pre-calculus Spring 2012: Math 2A: Differential Calculus Spring 2012: Math 230C: Abstract Algebra Winter 2012: Math 120B: Abstract Algebra Fall 2011: Math 2B: Integral Calculus Fall 2011: Math 232A: Algebraic Number Theory Summer 2011: Math 173A: Introduction to Cryptology Spring 2011: Math 2B: Integral Calculus Spring 2011: Math 233C: Algebraic Geometry Winter 2011: Math 233B: Algebraic Geometry Fall 2010: Math 2B: Integral Calculus Fall 2010: Math 2J: Linear Algebra and Power Series Summer 2010: Math 2B: Integral Calculus  </description>
-    </item>
-    
     <item>
       <title>Contact</title>
       <link>https://www.math.uci.edu/~davis/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.math.uci.edu/~davis/contact/</guid>
-      <description>Email is always the best way to reach me: daviscj@uci.edu
-Office: Rowland Hall 440J
-Math Department main phone number: 949-824-5503
-Mailing address: Rowland Hall 440J, UC Irvine, Irvine, CA 92697-3875</description>
+      <description>&lt;p&gt;Email is always the best way to reach me: &lt;a href=&#34;mailto:daviscj@uci.edu&#34;&gt;daviscj@uci.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Office: Rowland Hall 440J&lt;/p&gt;
+&lt;p&gt;Math Department main phone number: 949-824-5503&lt;/p&gt;
+&lt;p&gt;Mailing address:  Rowland Hall 440J, UC Irvine, Irvine, CA 92697-3875&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Updates</title>
-      <link>https://www.math.uci.edu/~davis/updates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.math.uci.edu/~davis/updates/</guid>
-      <description> 6/16/24 - I just finished Math 178: Mathematical Machine Learning. Here are the Python labs from the course. 8/9/23- I just finished teaching Math 173A: Introduction to Cryptology. Check out the Python notebooks and screenshare notes from the course. 9/11/22- I just posted some introductory Python notes and videos. Please email me with any comments!  </description>
-    </item>
-    
   </channel>
 </rss>
